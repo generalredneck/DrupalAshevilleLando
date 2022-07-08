@@ -1,0 +1,7 @@
+name: drupalashevillelando
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupalashevillelando
+  id: 831619c8-0e8a-4c49-8983-f3fcb86f865b
+
